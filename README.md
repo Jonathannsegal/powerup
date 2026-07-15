@@ -1,5 +1,7 @@
 # PowerUp 🕹️
 
+> **Archived:** Historical OUYA/Unity project preserved for reference; not under active development.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![Unity Version: 4.7.2](https://img.shields.io/badge/Unity%20Version%3A-4.7.2-green)](https://unity3d.com)
 [![HitCount](http://hits.dwyl.com/jonathannsegal/powerup.svg)](http://hits.dwyl.com/jonathannsegal/powerup)
